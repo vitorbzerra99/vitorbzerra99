@@ -18,6 +18,15 @@
 </div><br/>
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+## Áreas de Interesse
+
+- Desenvolvimento Web: HTML, CSS, JavaScript, frameworks front-end como Flask e Django. 
+- Desenvolvimento Back-end: Python, Java, Flask, 
+- Automação e Scripting: Python para automação de tarefas e scripts.
+- Ciência de Dados: Python com foco em analise da dados, Web Scraping com Python SQL para extração de dados, R para modelagem estatística.
+- Banco de Dados: SQL, NOSQL, SQLite, MySQL, Oracle e MongoDB. 
+- Programação Orientada a Objetos (POO): Aplicações e exemplos em Python e Java.
+- Matemática e Estatística: Álgebra Linear, Probabilidade, Calculo, Probabilidade, Regressão Linear, Regressão Logística. 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbzerra99&hide_progress=true)
 
