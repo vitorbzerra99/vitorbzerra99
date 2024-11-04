@@ -21,10 +21,10 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 ## Áreas de Interesse
 
 - Desenvolvimento Web: HTML, CSS, JavaScript, frameworks front-end como Flask e Django. 
-- Desenvolvimento Back-end: Python, Java, Flask, 
+- Desenvolvimento Back-end: MySql, JavaScript, Flask
 - Automação e Scripting: Python para automação de tarefas e scripts.
-- Ciência de Dados: Python com foco em analise da dados, Web Scraping com Python SQL para extração de dados, R para modelagem estatística.
-- Banco de Dados: SQL, NOSQL, SQLite, MySQL, Oracle e MongoDB. 
+- Data Science: Python com foco em analise da dados, Web Scraping com Python SQL para extração de dados, R para modelagem estatística.
+- Banco de Dados: SQL, NOSQL, PostgreSQL, MySQL, Oracle e MongoDB. 
 - Programação Orientada a Objetos (POO): Aplicações e exemplos em Python e Java.
 - Matemática e Estatística: Álgebra Linear, Probabilidade, Calculo, Probabilidade, Regressão Linear, Regressão Logística. 
 
