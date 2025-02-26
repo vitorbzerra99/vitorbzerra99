@@ -1,4 +1,4 @@
-## Vitor Bezerra
+### Vitor Bezerra
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vitorbzerra/])
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vitorpbzerra)
@@ -7,15 +7,15 @@
 ![Bez GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorbzerra99&show_icons=true&theme=transparent)
 
 ### 🚀 Sobre Mim:
-Me chamo Vitor Bezerra, sou um profissional multidisciplinar que une conhecimentos de Data Science e Desenvolvimento Full Stack para criar soluções inovadoras. Minhas habilidades em análise de dados e desenvolvimento de software me permite transformar informações em estratégias acionáveis e sistemas eficientes.
+Me chamo Vitor Bezerra, sou um profissional multidisciplinar que une conhecimentos de Data Science e Desenvolvimento Full Stack para criar soluções inovadoras. Minhas habilidades em análise de dados e desenvolvimento de software me permite transformar informações em estratégias acionáveis e sistemas eficientes, tenho habilidades em: 
 
-🔍 Foco em Ciência de Dados, Machine Learning e Desenvolvimento Web
+🎯 Data Science, Machine Learning e Desenvolvimento Full Stack.
 
-🎯 Habilidade em solucionar problemas utilizando dados e código
+📊 Forte base em Estatística e Matemática Aplicada para análise e modelagem de dados.
 
-📊 Forte base em Estatística e Matemática Aplicada para análise de dados e tomada de decisões estratégicas
+🔍 Experiência em arquitetura de software, integração de sistemas e automação de processos.
 
-⚡ Sempre em busca de novas tecnologias e melhores práticas
+📈 Comprometido com boas práticas, eficiência e inovação.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbzerra99&hide_progress=true)
 
@@ -44,7 +44,7 @@ Me chamo Vitor Bezerra, sou um profissional multidisciplinar que une conheciment
   <img align="center" alt="postgresql" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
 </div><br/>
 
-### FrameWork 
+### 🏗️ FrameWork 
 
 <div style="display: inline_block">
   <img align="center" alt="anaconda" src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff" />
@@ -55,12 +55,17 @@ Me chamo Vitor Bezerra, sou um profissional multidisciplinar que une conheciment
   </div><br/>
   
 
-### Code Editor
+### 💻 Code Editor
 <div style="display: inline_block">
   <img align="center" alt="vscode" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" />
   <img align="center" alt="eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white" />
   <img align="center" alt="pythonidle" src="https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff" />
   </div><br/>
-  
+
+## 📩 Contatos e mais informações:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vitorbzerra/])
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vitorpbzerra)
+📧: vitorpbzerra@hotmail.com 
+
  
 
