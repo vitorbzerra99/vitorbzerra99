@@ -4,7 +4,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vitorpbzerra)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/vitorbzerra)
 
-## Bem-vindo ao meu repositório! Sou um Vitor Bezerra Full Stack Developer e Cientista de Dados. Minha experiência combina análise de dados, desenvolvimento de aplicações web e automação de processos.
+## Bem-vindo ao meu repositório! Me chamo Vitor Bezerra, sou Full Stack Developer Jr e Cientista de Dados Jr. Minha experiência combina análise de dados, desenvolvimento de aplicações web e automação de processos.
 
 ![Bez GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorbzerra99&show_icons=true&theme=transparent)
 
@@ -24,6 +24,9 @@ Sou um profissional multidisciplinar que une conhecimentos de Data Science e Des
 <div style="display: inline_block">
 <img align="center" alt="py" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt="r" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img align="center" alt="numpy" src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff />
+
+
 </div><br/>
 
 <div style="display: inline_block">
