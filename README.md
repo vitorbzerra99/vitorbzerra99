@@ -4,7 +4,8 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vitorpbzerra)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/vitorbzerra)
 
-## Bem-vindo ao meu repositório! Me chamo Vitor Bezerra, sou Full Stack Developer Jr e Cientista de Dados Jr. Minha experiência combina análise de dados, desenvolvimento de aplicações web e automação de processos.
+Bem-vindo ao meu repositório! Me chamo Vitor Bezerra, sou Full Stack Developer Jr e Cientista de Dados Jr. Minha experiência combina análise de dados, desenvolvimento de aplicações web e automação de processos.
+
 
 ![Bez GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorbzerra99&show_icons=true&theme=transparent)
 
